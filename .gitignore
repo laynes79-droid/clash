@@ -1,0 +1,9 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivo de variáveis de ambiente (contém a chave da API!)
+.env
+
+# Arquivos de log e outros arquivos de sistema
+*.log
+.DS_Store
